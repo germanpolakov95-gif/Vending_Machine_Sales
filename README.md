@@ -5,6 +5,8 @@ In this project, I analyzed data from Kaggle on vending machine sales in New Jer
 
 **What was analyzed**: Product analysis, Location Rating by total revenue, Revenue dynamics by month, and the ratio of card and cash purchases.
 
+![123](https://github.com/user-attachments/assets/d5629ce2-986c-4eb0-95ac-01c5bbde0adc)
+
 Link to the dataset: [Vending Machine Sales](https://www.kaggle.com/datasets/awesomeasingh/vending-machine-sales)
 
 ## About the repository
